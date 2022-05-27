@@ -1,0 +1,2 @@
+# diplom
+diplom_me
